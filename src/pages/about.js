@@ -5,7 +5,7 @@ export default function about() {
     <div>
       <h1 className='about'>About me</h1>
       <span className='span'></span>
-      <h4> about us in this link if you want </h4>
+      <h4> about us in fuck  this link if you want </h4>
       <p>
       My name is Boyana Tosheva and I was born in Sofia, Bulgaria.
 
