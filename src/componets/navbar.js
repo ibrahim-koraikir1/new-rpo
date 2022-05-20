@@ -13,6 +13,7 @@ export default function navbar() {
         <Link to="/about"> <li>about </li></Link>
         <Link to="/contact"> <li>contact </li></Link>
         </ul>
+        
     </div>
   )
 }
